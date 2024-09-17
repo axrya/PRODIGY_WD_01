@@ -1,3 +1,15 @@
-Task - 1
+Interactive Navigation Menu
+Overview
+This project showcases an interactive navigation menu built using HTML, CSS, and JavaScript. The navigation menu dynamically changes its appearance when scrolled and when hovering over menu items. The menu is also fixed at the top, ensuring it remains visible as users navigate through the page.
 
-Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
+Features
+Fixed Navigation: The navigation bar stays fixed at the top of the page while scrolling.
+Dynamic Styling: The background color and text color of the menu changes when scrolled or when a menu item is hovered over, improving user engagement.
+Responsive Design: The menu is fully responsive, featuring a hamburger icon and a sidebar for smaller screen sizes.
+Smooth Transitions: CSS animations create smooth transitions between different states of the menu, providing an enhanced user experience.
+Technologies Used
+HTML5
+CSS3 (including responsive design techniques)
+JavaScript
+Demo
+A live demo of this project can be found here: [Demo Link]
