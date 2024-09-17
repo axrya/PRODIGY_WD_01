@@ -12,4 +12,4 @@ HTML5
 CSS3 (including responsive design techniques)
 JavaScript
 Demo
-A live demo of this project can be found here: [Demo Link]
+A live demo of this project can be found here: https://axrya.github.io/PRODIGY_WD_01/
